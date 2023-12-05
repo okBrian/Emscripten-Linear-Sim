@@ -1,0 +1,5 @@
+{
+    "cmake.configureSettings": {
+        "CMAKE_TOOLCHAIN_FILE": "/mnt/c/dev/C++/emsdk/upstream/emscripten/cmake/Modules/Platform/Emscripten.cmake"
+    }
+}
